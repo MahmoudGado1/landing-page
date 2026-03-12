@@ -32,7 +32,7 @@ The website includes a services section, team section, contact form, and Google 
 
 ![Home](./public/1.png)
 
-### Services Section
+
 
 ![Services](./public/2.png)
 
@@ -41,7 +41,7 @@ The website includes a services section, team section, contact form, and Google 
 ![Team](./public/3.png)
 
 
-
+### Services Section
 ![Contact](./public/4.png)
 
 ---
