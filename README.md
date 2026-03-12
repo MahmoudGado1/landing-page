@@ -1,16 +1,113 @@
-# React + Vite
+# DigitalPro Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern responsive business website built with **React + Vite + TailwindCSS**.
+The website includes a services section, team section, contact form, and Google Maps integration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+* Responsive design for all devices
+* Modern UI using TailwindCSS
+* Contact form section
+* Social media icons
+* Google Maps location
+* Clean and reusable React components
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* Vite
+* Tailwind CSS
+* Font Awesome
+* Google Maps Embed
+
+---
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home](./public/1.png)
+
+### Services Section
+
+![Services](./public/2.png)
+
+
+
+![Team](./public/3.png)
+
+
+
+![Contact](./public/4.png)
+
+---
+
+## 📦 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/MahmoudGado1/landing-page.git
+```
+
+Go to project folder
+
+```bash
+cd digitalpro-website
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📁 Project Structure
+
+```
+src
+ ├─ components
+ │   ├─ Navbar.jsx
+ │   ├─ Services.jsx
+ │   ├─ Team.jsx
+ │   └─ Footer.jsx
+ |   ├ hero.jsx
+ ├─ App.jsx
+ └─ main.jsx
+
+public
+ ├─ 1.png
+ ├─ 2.png
+ ├─ 3.png
+ └─ 4.png
+```
+
+---
+
+## 🌍 Live Demo
+
+You can deploy the project using:
+
+* Vercel
+* Netlify
+* GitHub Pages
+
+---
+
+## 👨‍💻 Author
+
+Mahmoud Gado
+
+
